@@ -23,3 +23,11 @@ coverage*.json
 .claude
 .agents
 *.tsbuildinfo
+
+### Copilot SDD Kit ###
+.github/copilot-instructions.md
+.github/AGENTS.md
+.github/instructions/
+.github/skills/
+.github/prompts/
+.github/docs/
